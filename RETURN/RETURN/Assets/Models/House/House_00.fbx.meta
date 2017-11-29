@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: 04803d2f2d5e15b40bdb3e43a2cfba8c
+timeCreated: 1462168574
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Floor
+    100004: Walls
+    100006: Ceiling
+    100008: DoorFrame
+    100010: House
+    100012: Door
+    100014: Cylinder
+    100016: HandleHolder
+    100018: Handle
+    100020: Skirt_Corner
+    100022: Skirt_Flat
+    100024: Skirt_Bend00
+    100026: Skirt_Bend01
+    100028: MainDoorFrame
+    100030: MainDoorFrame.001
+    100032: MainWindows
+    400000: //RootNode
+    400002: Floor
+    400004: Walls
+    400006: Ceiling
+    400008: DoorFrame
+    400010: House
+    400012: Door
+    400014: Cylinder
+    400016: HandleHolder
+    400018: Handle
+    400020: Skirt_Corner
+    400022: Skirt_Flat
+    400024: Skirt_Bend00
+    400026: Skirt_Bend01
+    400028: MainDoorFrame
+    400030: MainDoorFrame.001
+    400032: MainWindows
+    2300000: //RootNode
+    2300002: Floor
+    2300004: Walls
+    2300006: Ceiling
+    2300008: DoorFrame
+    2300010: House
+    2300012: Door
+    2300014: Cylinder
+    2300016: HandleHolder
+    2300018: Handle
+    2300020: Skirt_Corner
+    2300022: Skirt_Flat
+    2300024: Skirt_Bend00
+    2300026: Skirt_Bend01
+    2300028: MainDoorFrame
+    2300030: MainDoorFrame.001
+    2300032: MainWindows
+    3300000: //RootNode
+    3300002: Floor
+    3300004: Walls
+    3300006: Ceiling
+    3300008: DoorFrame
+    3300010: House
+    3300012: Door
+    3300014: Cylinder
+    3300016: HandleHolder
+    3300018: Handle
+    3300020: Skirt_Corner
+    3300022: Skirt_Flat
+    3300024: Skirt_Bend00
+    3300026: Skirt_Bend01
+    3300028: MainDoorFrame
+    3300030: MainDoorFrame.001
+    3300032: MainWindows
+    4300000: Grid
+    4300002: Floor
+    4300004: Walls
+    4300006: Ceiling
+    4300008: DoorFrame
+    4300010: House
+    4300012: Door
+    4300014: Cylinder
+    4300016: HandleHolder
+    4300018: Handle
+    4300020: Skirt_Flat
+    4300022: Skirt_Corner
+    4300024: Skirt_Bend00
+    4300026: Skirt_Bend01
+    4300028: MainDoorFrame
+    4300030: MainDoorFrame.001
+    4300032: MainWindows
+    6400000: //RootNode
+    6400002: Floor
+    6400004: Walls
+    6400006: Ceiling
+    6400008: DoorFrame
+    6400010: House
+    6400012: Door
+    6400014: Cylinder
+    6400016: HandleHolder
+    6400018: Handle
+    6400020: Skirt_Corner
+    6400022: Skirt_Flat
+    6400024: Skirt_Bend00
+    6400026: Skirt_Bend01
+    6400028: MainDoorFrame
+    6400030: MainDoorFrame.001
+    6400032: MainWindows
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.4
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

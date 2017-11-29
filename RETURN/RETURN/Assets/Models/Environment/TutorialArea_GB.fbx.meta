@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: fdb8f43fc49c19347b854e018d91eebc
+timeCreated: 1463642535
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Plane
+    100002: PlayerScale
+    100004: //RootNode
+    100006: Cylinder
+    100008: Mesh_TutArea
+    100010: Mesh_TutRock
+    100012: Mesh_PostTutArea
+    100014: Cone
+    100016: Mesh_MountainRock
+    100018: Cube
+    100020: Mesh_PoleThing
+    100022: Mesh_ColumnRock
+    100024: Mesh_BridePiece
+    400000: Plane
+    400002: PlayerScale
+    400004: //RootNode
+    400006: Cylinder
+    400008: Mesh_TutArea
+    400010: Mesh_TutRock
+    400012: Mesh_PostTutArea
+    400014: Cone
+    400016: Mesh_MountainRock
+    400018: Cube
+    400020: Mesh_PoleThing
+    400022: Mesh_ColumnRock
+    400024: Mesh_BridePiece
+    2300000: Plane
+    2300002: PlayerScale
+    2300004: Cylinder
+    2300006: Mesh_TutArea
+    2300008: Mesh_TutRock
+    2300010: Mesh_PostTutArea
+    2300012: Cone
+    2300014: Mesh_MountainRock
+    2300016: Cube
+    2300018: Mesh_PoleThing
+    2300020: Mesh_ColumnRock
+    2300022: Mesh_BridePiece
+    3300000: Plane
+    3300002: PlayerScale
+    3300004: Cylinder
+    3300006: Mesh_TutArea
+    3300008: Mesh_TutRock
+    3300010: Mesh_PostTutArea
+    3300012: Cone
+    3300014: Mesh_MountainRock
+    3300016: Cube
+    3300018: Mesh_PoleThing
+    3300020: Mesh_ColumnRock
+    3300022: Mesh_BridePiece
+    4300000: Plane
+    4300002: PlayerScale
+    4300004: Cylinder
+    4300006: Mesh_TutArea
+    4300008: Mesh_TutRock
+    4300010: Mesh_PostTutArea
+    4300012: Cone
+    4300014: Mesh_MountainRock
+    4300016: Cube
+    4300018: Mesh_PoleThing
+    4300020: Mesh_ColumnRock
+    4300022: Mesh_BridePiece
+    6400000: Plane
+    6400002: PlayerScale
+    6400004: Cylinder
+    6400006: Mesh_TutArea
+    6400008: Mesh_TutRock
+    6400010: Mesh_PostTutArea
+    6400012: Cone
+    6400014: Mesh_MountainRock
+    6400016: Cube
+    6400018: Mesh_PoleThing
+    6400020: Mesh_ColumnRock
+    6400022: Mesh_BridePiece
+  materials:
+    importMaterials: 0
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 2
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
